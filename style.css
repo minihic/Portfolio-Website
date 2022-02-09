@@ -230,6 +230,10 @@ a:active {
     flex: auto;
 }
 
+.github {
+    flex: auto;
+}
+
 .legal {
     display: flex;
     justify-content: center;
