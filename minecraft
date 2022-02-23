@@ -17,7 +17,7 @@
 
     <body>
         <div class="page">
-            <a href="index.html">
+            <a href="/index">
             <header id="link-header" class="header">
                 
                 <div class="header-text">minihic.info</div>
@@ -28,15 +28,47 @@
             </a>
 
             <nav class="navigation">
-                <div class="page-header">About</div>
+                <div class="page-header">Large Scale Minecraft Buildings</div>
             </nav>
     
             <main class="content">
-                <div class="about-text">    Who am I? I’m Matteo, a student, studying User Experience Design. Ever since I was young, I liked to tinker and create interesting imagery and creations. I’ve channeled that creativity into a number of areas, such as Blender, which is a great outlet for abstract imagery. I also enjoy capturing reality through photography and creating compositions that I find visually fascinating. Through photography, I learned to record video and edit it into short films or promotional films. Working in a team for short films also helped me lead a team in creating large, to-scale Minecraft builds. While dabbling in computers, I also approached the world of 3D printing and modeling through my former high school Maker Space. There I was able to participate in Maker Fairs to contribute to the maker community. All these creations help me develop my visualization and concept skills. Not only that, but I thrive in team environments, and I am able to adapt and learn new skills quickly. I continue to pursue my passion for creating and designing, and I can’t wait to learn more.
-            </div>
-            <img class="about-image" src="images/cat_spin_gif.png" alt="">
+
+                <div class="minecraft-image-group">
+                    <img class="minecraft-image" src="images/minecraft/1.png" alt="">
+                    <div class="minecraft-text">
+                    </div>
+                    <img class="minecraft-image" src="images/minecraft/2.png" alt="">
+                    <div class="minecraft-text">
+                    </div>
+                    <img class="minecraft-image" src="images/minecraft/3.png" alt="">
+                    <div class="minecraft-text">
+                    </div>
+                    <img class="minecraft-image" src="images/minecraft/4.png" alt="">
+                    <div class="minecraft-text">
+                    </div>
+                    <img class="minecraft-image" src="images/minecraft/5.png" alt="">
+                    <div class="minecraft-text">
+                    </div>
+                    <img class="minecraft-image" src="images/minecraft/6.png" alt="">
+                    <div class="minecraft-text">
+                    </div>
+                    <img class="minecraft-image" src="images/minecraft/7.png" alt="">
+                    <div class="minecraft-text">
+                    </div>
+                    <img class="minecraft-image" src="images/minecraft/8.png" alt="">
+                    <div class="minecraft-text">
+                    </div>
+                    <img class="minecraft-image" src="images/minecraft/9.png" alt="">
+                    <div class="minecraft-text">
+                    </div>
+                    <img class="minecraft-image" src="images/minecraft/10.png" alt="">
+                    <div class="minecraft-text">
+                    </div>
+                    
             </main>
     
+
+
             <footer>
                 <div class="legal">Copyright © 2021 Matteo Marongiu. All rights reserved.</div>
                 <a class="arrow" href="#link-header">
